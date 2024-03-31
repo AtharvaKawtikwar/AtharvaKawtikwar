@@ -5,7 +5,7 @@
 <h1 align="center">Hey 👋, I'm Atharva Kawtikwar</h1>
 <h3 align="center">Exploring the world of Computers</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=addu2612&label=Profile%20views&color=0e75b6&style=flat" alt="addu2612" /> </p>
+
 
 - 📚 I’m currently studying **Information Technology** at **Mukesh Patel School of Technology Management & Engineering**
  
